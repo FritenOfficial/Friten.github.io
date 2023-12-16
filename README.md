@@ -1,4 +1,5 @@
 ![favicon](https://github.com/FritenOfficial/Friten.github.io/assets/150671886/bc26952a-6409-4e66-9ad0-1b28c8d873d5)
+
 Friten is a social media app that provides users with a platform to connect, share, and engage with others. With Friten, users can create and post fleets, which are short-lived messages similar to tweets. Fleets allow users to express their thoughts, ideas, and experiences in a quick and concise manner.
 
 In addition to fleets, Friten offers a range of other features to enhance the social media experience. Users can follow other users, discover and engage with trending fleets, and interact with their followers through likes, comments, and direct messages. Friten also allows users to customize their profiles, upload photos and videos, and share links to external content.
